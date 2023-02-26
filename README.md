@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya ** Micko Agung Pratama**.\
+Perkenalkan nama saya **Micko Agung Pratama**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 
